@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kathillensousa/KathillenSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eai! Eu sou Kathillen
 
-Here are some ideas to get you started:
+💻 Dev Back-end • Node.js • JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Projetos com lógica, JSON e módulos nativos  
+
+🚧 Desenvolvendo cada dia mais minhas habilidades em programação
+
+🪪 Cursando análise e desenvolvimentop de sistemas
+
+🎯 Evoluindo passo a passo, com foco no essencial  
+
+↔️ Praticando Integração Front-end e Back-end
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kathillen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathillen&layout=compact&langs_count=16&theme=dark"/>
+
+<br/>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<br/><br/>
+
+<a href="https://discordapp.com/users/1387590981158830113" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a> 
+<a href="https://www.linkedin.com/in/kathillen-maciel-877a24370" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+
+<br/><br/>
+
+<img src="https://github.com/Kathillen/Kathillen/blob/main/spider-man%202.gif?raw=true" width="500" />
+
+</div>

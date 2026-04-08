@@ -16,14 +16,14 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kathillen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathillen&layout=compact&langs_count=16&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kathillensousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathillensousa&layout=compact&langs_count=16&theme=dark"/>
 
 <br/>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/react-logo-icon)](https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"></code>
+<code><img height="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"></code>
 <br/>
 
 <a href="https://discordapp.com/users/1387590981158830113" target="_blank">

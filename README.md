@@ -23,8 +23,8 @@
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"></code>
-<br/><br/>
+<code><img height="50" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/react-logo-icon)](https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"></code>
+<br/>
 
 <a href="https://discordapp.com/users/1387590981158830113" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">

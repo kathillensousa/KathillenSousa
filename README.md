@@ -17,6 +17,7 @@
 <br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathillensousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathillensousa&layout=compact&langs_count=16&theme=dark&cache_seconds=60"/>
 
 <br/>
